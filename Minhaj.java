@@ -3,5 +3,6 @@ public class Minhaj {
         System.out.println("Hello Minhaj");
         System.out.println("Hi faiz");
         System.out.println("hey did you got new project link");
+        //NewLine
     }
 }
